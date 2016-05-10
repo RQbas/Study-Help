@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1443365954 source:c:\users\rafa³\desktop\projekt\bus stop\project\project.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<stdio.h>
+	<sstream>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
