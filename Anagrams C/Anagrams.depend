@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431117603 source:c:\users\abc\desktop\maze\anagrams\anagram.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+
