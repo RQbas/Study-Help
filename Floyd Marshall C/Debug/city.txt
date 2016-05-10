@@ -1,0 +1,19 @@
+5
+Bielsko
+Katowice
+Gdansk
+Krakow
+Warszawa
+Bielsko Katowice 5
+Bielsko Gdansk 4
+Bielsko Krakow 8
+Katowice Bielsko 14
+Katowice Gdansk 20
+Katowice Warszawa 5
+Gdansk Krakow 5
+Gdansk Warszawa 2
+Krakow Bielsko 10
+Krakow Katowice 2
+Krakow Warszawa 11
+Warszawa Gdansk 4
+Warszawa Krakow 23

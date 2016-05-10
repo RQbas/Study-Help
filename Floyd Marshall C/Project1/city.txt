@@ -1,0 +1,12 @@
+4
+Katowice
+Krakow
+Chorzow
+Wroclaw
+Katowice Krakow 9
+Katowice Wroclaw 3
+Krakow Chorzow 2
+Chorzow Katowice 1
+Chorzow Wroclaw 8
+Wroclaw Krakow 5
+Wroclaw Chorzow 8
