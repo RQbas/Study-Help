@@ -1,0 +1,15 @@
+Data: 
+Delegation number:  1
+Date: 2016-02-04 23:27:43
+Name: ania
+Surname: maria
+Position: rokita
+Aim of Travel: sam segz
+Initial city: kalisz
+Destination city: wycislik
+Day of departure: 1.02.2016
+Day of comeback: 3.03.2016
+Result: 2461.57
+	 Transport:46.575
+	 Diet: 915(31days)
+	 Lump sum: 1500

@@ -1,0 +1,38 @@
+﻿Build started 2016-02-01 22:11:00.
+     1>Project "C:\Users\Rafał\Desktop\Delegation_Calc\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Delegation_calc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp Source.cpp
+         MyForm.cpp
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(701): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(706): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(711): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(716): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(721): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Calculator.h(757): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Source.cpp
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(42): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(50): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(62): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\Header.h(70): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+         Generating Code...
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\header2.h(57): warning C4700: uninitialized local variable 'daynumbd' used
+     1>c:\users\rafał\desktop\delegation_calc\project1\project1\header2.h(63): warning C4700: uninitialized local variable 'daynumbc' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rafał\Desktop\Delegation_Calc\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.Calculator.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rafał\Desktop\Delegation_Calc\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\Rafał\Desktop\Delegation_Calc\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Rafał\Desktop\Delegation_Calc\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.92

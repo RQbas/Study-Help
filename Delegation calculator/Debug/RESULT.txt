@@ -1,0 +1,15 @@
+Data: 
+Delegation number:  1
+Date: 2016-03-09 00:33:35
+Name: G
+Surname: 12
+Position: 21
+Aim of Travel: F
+Initial city: S
+Destination city: 22
+Day of departure: 10.04.2016
+Day of comeback: 15.04.2016
+Result: 231
+	 Transport:6
+	 Diet: 165(6days)
+	 Lump sum: 60
