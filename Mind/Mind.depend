@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477845609 source:c:\users\abc\desktop\ms_c\mind\mindgame.c
+	<stdio.h>
+	<time.h>
+
